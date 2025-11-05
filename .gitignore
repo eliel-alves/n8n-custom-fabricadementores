@@ -1,0 +1,7 @@
+# Ignorar arquivos sensíveis
+.env
+.env.local
+*.log
+
+# Node modules (se você adicionar algo local)
+node_modules/
